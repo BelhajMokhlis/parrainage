@@ -1,0 +1,2 @@
+Pour travailler simultanément avec la tâche demandée,
+vous devez élaborer un diagramme de cas d'utilisation ainsi qu'un modèle conceptuel des données pour une application de chat-room.
